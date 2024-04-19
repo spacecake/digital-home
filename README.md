@@ -2,9 +2,12 @@
 
 ## Alternative software
 
-Complete list at [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
-Resource [linuxserver.io](https://fleet.linuxserver.io/).
+Complete list of alternative software at [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
+Resources for setup: 
+- [linuxserver.io](https://fleet.linuxserver.io/).
+- [Proxmox scripts for VMs and LXC containers](https://github.com/tteck/Proxmox/tree/main)
+  
 Services:
 - Photo Management - [Immich](https://immich.app/docs/install/docker-compose/) - Self-hosted photo and video management solution
 - Cloud Drive - Nextcloud
